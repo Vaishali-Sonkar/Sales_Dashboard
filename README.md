@@ -3,7 +3,7 @@
 > **Superstore Sales Analysis · 2011–2014**  
 > An interactive Power BI dashboard providing end-to-end visibility into sales performance, profitability, regional distribution, and category-level insights across a 4-year period.
 
-![Dashboard Preview](Screenshot 2026-04-10 004436.png)
+[Dashboard Preview](Screenshot 2026-04-10 004436.png)
 
 ---
 
